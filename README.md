@@ -10,4 +10,4 @@ Modified template from [Start Bootstrap](http://startbootstrap.com/) by Andres V
 
 Copyright 2017 Andrés Vinueza
 
-Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-creative/blob/gh-pages/LICENSE) license.
+Code released under the [MIT](https://github.com/andresvi94/andresvi94.github.io/blob/master/LICENSE) license.
