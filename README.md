@@ -4,7 +4,7 @@ Website to demonstrate personal information, interests, and skils. Serves as a m
 [andresvi94.github.io](http://andresvi94.github.io/)
 
 ## Creator
-Modified template from [Start Bootstrap](http://startbootstrap.com/) by Andres Vinueza
+Modified template from [Start Bootstrap](http://startbootstrap.com/) by Andrés Vinueza
 
 ## Copyright and License
 
