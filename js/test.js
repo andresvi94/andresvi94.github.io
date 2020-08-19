@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var headerText = "Latino Software Engineer currently focusing on mobile\
-                   development with Swift 5, UIKit, & SwiftUI. \";
+                   development with Swift 5, UIKit, & SwiftUI.";
   $("#headerText").text(headerText);
 });
 
