@@ -1,17 +1,20 @@
 $(document).ready(function () {
-  var headerText = "Recent Clemson Graduate: Seeking to refine his software\
-                    skills to grow as a young software developer";
+  var headerText = "Latino Software Engineer currently focusing on mobile\
+                   development with Swift 5, UIKit, & SwiftUI. \";
   $("#headerText").text(headerText);
 });
 
 $(document).ready(function () {
-  var aboutText = "Born and raised in Ambato, Ecuador, my family and I moved\
-                    to the United States in search of better lifestyle\
-                    opportunities. Recent graduate from Clemson University as\
-                    a Computer Engineer. My attraction to this field stems from\
-                    my exuberant interest in technology; I often find myself\
-                    spending hours reading articles on its advances and\
-                    breakthroughs";
+  var aboutText = "I'm a Latino Software Engineer graduate from Clemson University\
+                   and now pursuing a Master's in CS with a Machine Learning\
+                   specialization. My attraction to this field stems from my exuberant\
+                   interest in technology; I often find myself spending hours reading\
+                   articles on its advances and breakthroughs. \
+                   Outside of my career, I focus on STEM awareness for minorities in my\
+                   community. I'm proud to be a leader for the SHPE-DFW organization which\
+                   provides me the right platform to give back. I would not be who I am without\
+                   the help & guidance of a plethora of individuals and I hope to be that mentor\
+                   for others as I grow in my career.";
   $("#aboutText").text(aboutText);
 });
 
