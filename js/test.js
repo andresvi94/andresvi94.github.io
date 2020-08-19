@@ -1,6 +1,6 @@
 $(document).ready(function () {
   var headerText = "Latino Software Engineer currently focusing on mobile\
-                   development with Swift 5, UIKit, & SwiftUI.";
+                   development\n with Swift 5, UIKit, & SwiftUI.";
   $("#headerText").text(headerText);
 });
 
@@ -9,7 +9,7 @@ $(document).ready(function () {
                    and now pursuing a Master's in CS with a Machine Learning\
                    specialization. My attraction to this field stems from my exuberant\
                    interest in technology; I often find myself spending hours reading\
-                   articles on its advances and breakthroughs. \
+                   articles on its advances and breakthroughs.\n \
                    Outside of my career, I focus on STEM awareness for minorities in my\
                    community. I'm proud to be a leader for the SHPE-DFW organization which\
                    provides me the right platform to give back. I would not be who I am without\
